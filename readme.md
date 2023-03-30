@@ -3,7 +3,9 @@ A web-based animation project where lines with waves pass through an image. The 
 
 ### Demo
 
-You can view a live demo of this project [here](https://image-waves.vercel.app/).
+![Alt text](assets/starlove.gif)
+
+Also you can view a live demo of this project [here](https://image-waves.vercel.app/).
 
 ### Installation and Setup
 
