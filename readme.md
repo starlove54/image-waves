@@ -1,8 +1,11 @@
-
 ![Alt text](assets/banner.png)
 A web-based animation project where lines with waves pass through an image. The project is built using the p5.js library and generates an animation with different phases for each wave line.
 
-## Installation and Setup
+### Demo
+
+You can view a live demo of this project [here](https://image-waves.vercel.app/).
+
+### Installation and Setup
 
 1.  Clone the repository using the following command:
 
@@ -18,26 +21,22 @@ cd image-waves
 
 3.  Open `index.html` in a web browser.
 
-## Usage
+### Usage
 
 1.  The project contains an image (`starlove.jpeg`) in the `assets` folder on which the wave lines are superimposed.
 2.  Open the `index.html` file in a web browser to view the animation.
 3.  The animation can be exported as a GIF by uncommenting the commented code in the `index.js` file.
 
-## Project Structure
+### Contributing
 
-The project contains the following files and directories:
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-1.  `index.html` - The main HTML file of the project.
-2.  `index.js` - The main JavaScript file of the project.
-3.  `assets` - A directory containing the image (`starlove.jpeg`) on which the wave lines are superimposed.
-4.  `p5.js` - A p5.js library file.
-5.  `src` - A directory containing the following files:
-    -   `CCapture.js` - A script to capture frames of the animation to create a GIF.
-    -   `gif.js` - A script to create a GIF.
-    -   `gif.worker.js` - A script to create a GIF.
-    -   `download.js` - A script to download the created GIF.
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
 
-## License
+### License
 
-This project is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/chat/LICENSE) file for details.
+This project is licensed under the MIT License.
