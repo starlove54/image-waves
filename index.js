@@ -2,7 +2,7 @@ let img;
 let waves = [];
 
 function preload() {
-  img = loadImage('assets/777.jpeg');
+  img = loadImage('assets/starlove.jpeg');
 }
 
 function setup() {
